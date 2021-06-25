@@ -27,10 +27,7 @@ samba:
         max log size: 50
         dns proxy: no
         load printers: yes
-        printing: cups
-        printcap name: cups
         security: user
-        hosts allow: 127. 10. 192.168.
         bind interfaces only: no
         usershare allow guests: no
       global_role_domain_member:
